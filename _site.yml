@@ -2,7 +2,6 @@ name: "bmp-website"
 navbar:
   title: "Basilio M. P."
   left:
-    - text: "Home"
+    - text: "Personal"
       href: index.html
-    - text: "About"
-      href: about.html
+      
