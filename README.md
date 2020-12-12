@@ -10,6 +10,6 @@ This allowed me to work in different projects between academia and private busin
 Currently I work as a Data Analyst at the Data Science team in [Netquest](https://www.netquest.com/en). 
 
 
-You can follow me on **[LinkedIn](https://www.linkedin.com/in/basiliomp/)**, **[GitHub](https://github.com/basiliomp/)** and **[Twitter](www.twitter.com/basiliomp)** or write me to _basiliomperalta [a] gmail.com_ .
+You can follow me on **[LinkedIn](https://www.linkedin.com/in/basiliomp/)**, **[GitHub](https://github.com/basiliomp/)** and **[Twitter](www.twitter.com/basiliomp)** or contact me by mail ( _basiliomperalta[a]gmail.com_ ).
 
 ![](files/picture.jpeg)
