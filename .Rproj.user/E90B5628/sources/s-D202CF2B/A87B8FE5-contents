@@ -1,7 +1,0 @@
-name: "bmp-website"
-navbar:
-  title: "Basilio M. P."
-  left:
-    - text: "Personal"
-      href: index.html
-      

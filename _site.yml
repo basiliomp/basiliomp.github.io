@@ -1,0 +1,6 @@
+name: "personal-website"
+navbar:
+  title: "Basilio M.P."
+  left:
+    - text: "Hello"
+      href: index.html
