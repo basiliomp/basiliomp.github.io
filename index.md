@@ -1,5 +1,5 @@
 ---
-title: "Basilio M.P."
+title: "Personal site"
 name: "cat-website"
 output:
   html_document:
