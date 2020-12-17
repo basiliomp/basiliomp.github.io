@@ -2,5 +2,5 @@ name: "personal-website"
 navbar:
   title: "Basilio M.P."
   left:
-    - text: "Hello"
+    - text: "Home"
       href: index.html
